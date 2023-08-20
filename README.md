@@ -2,7 +2,7 @@
 
 I created [this Band Plan](ShortWaveBandPlan.pdf) to have a handy handout to tune shortwave stations with my [Century-21](http://www.shortwaveradio.ch/doku.php?id=en:century-21) receiver.
 
-As all other receivers based on the Wadley loop schematic (most known is probably the [Yaesu FRG-7](http://www.shortwaveradio.ch/doku.php?id=en:frg-7)) it has the tune for the MHz range and the tune wheel for the KHz range inside of the selected MHz range.
+As all other receivers based on the [Wadley loop principle](https://en.wikipedia.org/wiki/Wadley_loop) (most known is probably the [Yaesu FRG-7](http://www.shortwaveradio.ch/doku.php?id=en:frg-7)) it has the tune wheel for the MHz range and the tune wheel for the KHz range inside of the selected MHz range.
 
 My band plan has the MHz ranges as the horizontal axle and the KHz range as the vertical axle, so it is designed to set up the MHz first and then the KHz, as it has to be done in each Wadley loop receiver.
 
@@ -21,7 +21,7 @@ The band are colored to optically differentiate the transmission kind they use:
 - Green: Data broadcast with different types
 - Violet: [CB](https://en.wikipedia.org/wiki/Citizens_band_radio) broadcast 
 
-Some [Freebans](http://www.freebanding.co.uk/echo_charlie.htm) are also mentioned in the plan with they corresponding [calling frequencies](https://ham.stackexchange.com/a/6275)
+Some [Freebands](http://www.freebanding.co.uk/echo_charlie.htm) are also mentioned in the plan with they corresponding [calling frequencies](https://ham.stackexchange.com/a/6275)
 
 ## Propagation
 
