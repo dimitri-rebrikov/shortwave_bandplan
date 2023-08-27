@@ -16,7 +16,7 @@ The band start/stop frequencies are additionally mentioned at the beginning/end 
 
 The band are colored to optically differentiate the transmission kind they use:
 - Red: [AM](https://en.wikipedia.org/wiki/AM_broadcasting) broadcast
-- Yellow: [HAM](https://en.wikipedia.org/wiki/Amateur_radio) broadcast in [LSB or USB](tps://en.wikipedia.org/wiki/Sideband). The concrete type is mentioned under the band name.
+- Yellow: [HAM](https://en.wikipedia.org/wiki/Amateur_radio) broadcast in [LSB or USB](https://en.wikipedia.org/wiki/Single-sideband_modulation). The concrete type is mentioned under the band name.
 - Blue: [CW](http://www.arrl.org/cw-mode) (Morse-Code) broadcast in LSB or USB 
 - Green: Data broadcast with different types
 - Violet: [CB](https://en.wikipedia.org/wiki/Citizens_band_radio) broadcast 
