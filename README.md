@@ -4,7 +4,7 @@ I created [this Band Plan](ShortWaveBandPlan.pdf) to have a handy handout to tun
 
 As all other receivers based on the [Wadley loop principle](https://en.wikipedia.org/wiki/Wadley_loop) (most known is probably the [Yaesu FRG-7](http://www.shortwaveradio.ch/doku.php?id=en:frg-7)) it has the tune wheel for the MHz range and the tune wheel for the KHz range inside of the selected MHz range.
 
-My band plan has the MHz ranges as the horizontal axle and the KHz range as the vertical axle, so it is designed to set up the MHz first and then the KHz, as it has to be done in each Wadley loop receiver.
+My band plan has the MHz ranges as the horizontal axle and the KHz range as the vertical axle, so it is designed to set up the MHz first and then the KHz, as it has to be done on each Wadley loop receiver.
 
 ![MHz-KHz-axles](./media/mhz_khz_axles.png)
 
